@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class SumatoriaFor {
+public class FOR {
 
     public static void main(String[] args) {
 

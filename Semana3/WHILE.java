@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class SumatoriaWhile {
+public class WHILE {
 
     public static void main(String[] args) {
 

@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class DiaLibre {
+public class SWITCH {
 
     public static void main(String[] args) {
 

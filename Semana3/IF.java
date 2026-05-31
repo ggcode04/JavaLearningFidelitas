@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class ComparacionNumeros {
+public class IF {
 
     public static void main(String[] args) {
 
