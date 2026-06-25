@@ -8,6 +8,12 @@ Este repositorio reúne ejercicios, prácticas y un proyecto final del curso "Ap
 
 ## Estructura del repositorio
 
+- `CasoSimulado1/` — Ejercicios de clases y objetos que forman un caso evaluado con módulos para:
+  - `CasoEvaluado1.java`: menú principal para ejecutar los distintos ejercicios.
+  - `MainEstudiante.java` / `Estudiante.java`: captura datos del estudiante, calcula promedio y determina si aprueba.
+  - `MainProducto.java` / `Producto.java`: calcula subtotal y aplica descuento sobre productos.
+  - `MainCuentaBancaria.java` / `CuentaBancaria.java`: simula creación de cuenta, depósito, retiro y consulta de saldo.
+  - `MainVehiculo.java` / `Vehiculo.java`: registra vehículos, calcula antigüedad y simula avance de kilometraje.
 - `Semana2/` — Ejercicios básicos de control de flujo y estructuras simples.
 - `Semana3/` — Ejercicios de bucles, condicionales, cadenas y ejemplos prácticos.
 - `Semana4/` — Ejercicios adicionales de Java y casos de práctica.
